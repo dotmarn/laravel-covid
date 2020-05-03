@@ -1,0 +1,21 @@
+{
+    "name": "dotman/covid-19",
+    "description": "Covid-19 - A simple Laravel package for reporting covid-19 cases across the world.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasim Ridwan",
+            "email": "kasimsheyi20@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Dotman\\Covid\\": "src/"
+        }
+    },
+    "require": {
+    	"php": "^5.6.0"
+    }
+}
