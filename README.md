@@ -3,8 +3,10 @@ A laravel package for fetching covid-19 data across the world
 
 ## Installation
 
+You can install the package using composer
+
 ```
-composer require dotman/covid
+$ composer require dotman/covid
 
 ```
 
