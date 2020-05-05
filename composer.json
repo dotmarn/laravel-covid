@@ -6,7 +6,8 @@
     "authors": [
         {
             "name": "Kasim Ridwan",
-            "email": "kasimsheyi20@gmail.com"
+            "email": "kasimsheyi20@gmail.com",
+            "role": "Developer"
         }
     ],
     "homepage": "https://github.com/dotmarn/laravel-covid",

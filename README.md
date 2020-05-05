@@ -70,7 +70,7 @@ Ngsc::getCities('lagos') OR Ngsc::getCities('LA')
 
 ## Appreciation
 
-Huge thanks go to the [Devcenter.co](http://devcenter.co/square) crew for providing a fluent and awesome API
+Huge thanks go to the [Kyle Redelinghuys](https://twitter.com/ksredelinghuys) crew for providing a fluent and awesome API
 
 ## Contributing
 
