@@ -1,5 +1,5 @@
 {
-    "name": "dotman/covid-19",
+    "name": "dotman/laravel-covid",
     "description": "Covid-19 - A simple Laravel package for reporting covid-19 cases across the world.",
     "type": "project",
     "license": "MIT",
@@ -9,6 +9,8 @@
             "email": "kasimsheyi20@gmail.com"
         }
     ],
+    "homepage": "https://github.com/dotmarn/laravel-covid",
+    "keywords": ["Laravel", "laravel-covid", "Covid-19", "Covid"],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
@@ -16,6 +18,7 @@
         }
     },
     "require": {
-    	"php": "^5.6.0"
+    	"php": ">=7.2",
+        "laravel/framework": "^7.0"
     }
 }
